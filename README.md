@@ -1,6 +1,2 @@
 # flux2-general-tenant
-commit1-change3
-commit2-change1
-online-commit1
-online-commit2
-commit3-change2
+change1
